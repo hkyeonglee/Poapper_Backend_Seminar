@@ -1,0 +1,11 @@
+{
+    "name": "LeeHyungKyung",
+    "job": "student",
+    "age": 21,
+    "hobby": ["painting", "dancing"],
+    "course_table": [
+      {"name": "데이터 구조", "id": "CSED233"},
+      {"name": "경영과학", "id": "IMEN260"},
+      {"name": "객체 지향 프로그래밍", "id": "CSED232"}
+    ]
+  }
